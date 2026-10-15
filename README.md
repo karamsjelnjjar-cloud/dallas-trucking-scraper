@@ -1,4 +1,3 @@
-# dallas-trucking-scraperarkdown
 # 🚚 Asynchronous Dallas Trucking Companies Scraper & Fleet Analyzer
 
 An advanced, high-performance asynchronous web scraping and data analytics tool built with **Python**, **Playwright (Async API)**, **Asyncio**, and **Pandas**. It efficiently scrapes hundreds of trucking company profiles from Texas business directories, extracts fleet metrics via Regular Expressions, computes summary statistics, and generates visual market distribution charts.
@@ -23,10 +22,3 @@ An advanced, high-performance asynchronous web scraping and data analytics tool 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/karamsjelnjjar-cloud/dallas-trucking-scraper.git](https://github.com/karamsjelnjjar-cloud/dallas-trucking-scraper.git)
-
-Bash
-python dallas_scraper.py
-Run the fleet analysis script:
-
-Bash
-python analyze_dallas.py
