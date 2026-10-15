@@ -23,12 +23,6 @@ An advanced, high-performance asynchronous web scraping and data analytics tool 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/karamsjelnjjar-cloud/dallas-trucking-scraper.git](https://github.com/karamsjelnjjar-cloud/dallas-trucking-scraper.git)
-Install dependencies:
-
-Bash
-pip install playwright pandas matplotlib seaborn openpyxl
-playwright install
-Run the async scraper:
 
 Bash
 python dallas_scraper.py
